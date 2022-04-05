@@ -1,4 +1,4 @@
-## Table of contents
+## Rainbow Warrior Connection
 
 * [Overview](#overview)
 
