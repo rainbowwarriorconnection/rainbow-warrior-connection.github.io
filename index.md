@@ -33,6 +33,12 @@ On the Student Home page, there is a form that holds the information about the s
 
 <img src="images/student-home.png">
 
+### Browsing Page
+
+Clicking on the Browse button brings you to the browsing page. Here, users can input specific information in order to filter out either student or company cards.
+
+<img src="images/browse-students.png">
+
 ### Student Profile Page
 
 After you click on a student's card, it takes you to the Student Profile page. The page displays information about the student and shows a picture of them.
@@ -51,11 +57,6 @@ Clicking on a company's card bring you to their Company Profile page, displaying
 
 <img src="images/company-home.png">
 
-### Browsing Page
-
-Clicking on the Browse button brings you to the browsing page. Here, users can input specific information in order to filter out either student or company cards.
-
-<img src="images/browse-students.png">
 
 ### Administrator Home page
 
