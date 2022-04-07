@@ -12,7 +12,7 @@ update their listings.
 
 ### Student Home Page
 
-On the Student Home page, there is a form that holds the information about the student. The user can edit their profile and it will update their profile with the new information
+On the Student Home page, there is a form that holds the information about the student. The user can edit their profile and it will update their profile with the new information.
 
 <img src="images/student-home.png">
 
