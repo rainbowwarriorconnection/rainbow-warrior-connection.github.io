@@ -20,12 +20,6 @@ The Landing page provides information about the website and allows users to sign
 
 <img src="images/landing-page.png">
 
-### Browsing Page
-
-Clicking on the Browse button brings you to the browsing page. Here, users can input specific information in order to filter out either student or company cards.
-
-<img src="images/browse-students.png">
-
 ### Sign in/ Sign up
 
 Users are able to sign in using their existing account information or create a new one.
@@ -56,6 +50,12 @@ Similarly to the Student Home page, the Company Home page holds information abou
 Clicking on a company's card bring you to their Company Profile page, displaying basic information about the company as well as their job listings.
 
 <img src="images/company-home.png">
+
+### Browsing Page
+
+Clicking on the Browse button brings you to the browsing page. Here, users can input specific information in order to filter out either student or company cards.
+
+<img src="images/browse-students.png">
 
 ### Administrator Home page
 
