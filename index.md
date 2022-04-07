@@ -2,6 +2,7 @@
 
 * [Overview](#Overview)
 * [Deployment](#Layout)
+* [Important Links](#Important Links)
 
 
 ## Overview
@@ -61,3 +62,9 @@ Clicking on a company's card bring you to their Company Profile page, displaying
 Administrators have a different home page in comparison to the company and student home pages. They are able to add or delete from collections such as different skills and geographic locations. Admins are also able to delete accounts that are not appropriate.
 
 <img src="images/admin-page.png">
+
+## Important Links
+
+- [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
+- [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
+- [Project Milestone 1](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/1)
