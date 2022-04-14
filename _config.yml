@@ -2,7 +2,7 @@ title: Rainbow Warrior Connection
 description: Student Profiles, Company Profiles, and Ways to Connect Them
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 github:
   is_project_page: true
   repository_url: https://github.com/rainbowwarriorconnection/rainbowwarriorconnection.github.io
