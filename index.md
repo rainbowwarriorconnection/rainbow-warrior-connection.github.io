@@ -72,4 +72,4 @@ Administrators have a different home page in comparison to the company and stude
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
 - [Project Milestone 1](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/1)
 
-- [Project Milestone 2](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection.github.io/projects/2)
+- [Project Milestone 2](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/2)
