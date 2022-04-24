@@ -1,7 +1,7 @@
 ## Rainbow Warrior Connection
 
 * [Overview](#Overview)
-* [Deployment](#Layout)
+* [User Guide](#User Guide)
 * [Important Links](#Important Links)
 
 ## Deployment
@@ -14,32 +14,35 @@ While companies can post their job listings, hiring positions, location, salary,
 we are looking to provide access to companies and students with their own separate pages. Students will be able to browse and filter out jobs while companies can
 update their listings. 
 
-## Layout
+## User Guide
 
 ### Landing Page
 
-The Landing page provides information about the website and allows users to sign in to their existing account or create a new one.
+The first time you arrive to Rainbow Warrior Connection, you will be welcomed by our homepage, describing what our website does.
 
 <img src="images/landing-page.png" alt="landing">
 
-### Sign in/ Sign up
+### Register Your Account
 
-Users are able to sign in using their existing account information or create a new one.
+If you are new student to this website, select the "Login" icon and click on "signup". If you are are a company, select "Company Sign Up" instead.
 
-<img src="images/signin-page.png" alt="signin">
+#### Student Signup
 <img src="images/signup-page.png" alt="signup">
+
+#### Company Signup
+<img src="images/company-signup.png" alt="signup-company">
 
 ### Student Home Page
 
-On the Student Home page, there is a form that holds the information about the student. The user can edit their profile and it will update their profile with the new information.
+If you are a student user, you can edit your profile picture, set your location in the United States and make a profile bio to put yourself out there to companies.
 
 <img src="images/student-home.png" alt="student home">
 
-### Browsing Page
+### Student Browsing Page
 
-Clicking on the Browse button brings you to the browsing page. Here, users can input specific information in order to filter out either student or company cards.  Note: will be updating to show cards of students.
+For students, you can browse companies and see what they are about and what jobs they are offering. Keep an eye out for new jobs as companies will update them constantly.
 
-<img src="images/browse-students.png" alt="browse-students">
+<img src="images/browse-companies.png" alt="browse-students">
 
 ### Student Profile Page
 
@@ -49,7 +52,7 @@ After you click on a student's card, it takes you to the Student Profile page. T
 
 ### Company Home Page
 
-Similarly to the Student Home page, the Company Home page holds information about the company or organization. The company can edit their location, company description, company logo, and add, edit, or delete job listings.
+When you login, you will be greeted with a form to fill out your company's information and contact information. 
 
 <img src="images/company-home.png" alt="company-profile">
 
@@ -57,15 +60,55 @@ Similarly to the Student Home page, the Company Home page holds information abou
 
 Clicking on a company's card bring you to their Company Profile page, displaying basic information about the company as well as their job listings.
 
-<img src="images/companyprofile.png" alt="company">
+### Create a Job Listing
+
+As a company, you can create job listings so students can see what jobs you are looking for. You can choose between internship, part-time, and full-time. Fill out your location and describe what you are looking for to fill the position. 
+
+<img src="images/add-job-listing.png" alt="browse-students">
 
 
-### Administrator Home page
+## Developer Guide
 
-Administrators have a different home page in comparison to the company and student home pages. They are able to add or delete from collections such as different skills and geographic locations. Admins are also able to delete accounts that are not appropriate.
+For developers who want to update or improve Rainbow Warrior Connection, visit our [Rainbow Warrior Connection](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection)on github. You want to first download our repository to your github. 
 
-<img src="images/admin-page.png" alt="admin">
+<img src="images/developer-1.png" alt="step 1">
 
+Third, go into your app directory by using:
+
+For Windows:
+```
+cd app
+```
+For Macs:
+```
+$ cd app
+```
+
+Run meteor by using:
+
+For Windows:
+
+```
+meteor npm install
+```
+For Macs:
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the package.json file.
+
+For Windows:
+
+```
+meteor npm run start
+```
+For Macs:
+```
+$ meteor npm run start
+```
 
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
