@@ -69,7 +69,7 @@ As a company, you can create job listings so students can see what jobs you are 
 
 ## Developer Guide
 
-For developers who want to update or improve Rainbow Warrior Connection, visit our [Rainbow Warrior Connection](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection)on github. You want to first download our repository to your github. 
+For developers who want to update or improve Rainbow Warrior Connection, visit our [Rainbow Warrior Connection](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection) on github. You want to first download our repository to your github. 
 
 <img src="images/developer-1.png" alt="step 1">
 
@@ -109,9 +109,11 @@ For Macs:
 ```
 $ meteor npm run start
 ```
-
+### Application Design
+Rainbow Warrior Connection is based off of [Bowfolios](github.com/bowfolios) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Watch the videos and documentation for groundwork reference of application design and form processing.
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
 - [Project Milestone 1](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/1)
 - [Project Milestone 2](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/2)
+- [Project Milestone 3](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/3)
