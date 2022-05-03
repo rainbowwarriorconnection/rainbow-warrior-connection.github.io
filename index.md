@@ -109,6 +109,7 @@ For Macs:
 ```
 $ meteor npm run start
 ```
+
 ### Application Design
 Rainbow Warrior Connection is based off of [Bowfolios](github.com/bowfolios) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Watch the videos and documentation for groundwork reference of application design and form processing.
 ## Important Links
@@ -117,3 +118,5 @@ Rainbow Warrior Connection is based off of [Bowfolios](github.com/bowfolios) and
 - [Project Milestone 1](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/1)
 - [Project Milestone 2](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/2)
 - [Project Milestone 3](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/projects/3)
+
+![ci-badge](https://github.com/rainbowwarriorconnection/rainbowwarriorconnection/workflows/rainbowwarriorconnection/badge.svg)
