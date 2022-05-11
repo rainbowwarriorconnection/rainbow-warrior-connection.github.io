@@ -132,7 +132,7 @@ Overall the web site does not have instructions or description on the purpose of
 - Interests in alphabetical order 
 - The website is easy and simple
 - Doesn't look professional/ interesting
-- Can include more things to filter by (experience, other things)  
+- Can include more things to filter by (experience, other things)
 
 ### V (Name kept anonymous)
 - They layout is organized and is easy to navigate.
