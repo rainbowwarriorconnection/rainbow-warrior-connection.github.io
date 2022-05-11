@@ -133,12 +133,14 @@ Overall the web site does not have instructions or description on the purpose of
 - The website is easy and simple
 - Doesn't look professional/ interesting
 - Can include more things to filter by (experience, other things)
-### V (Name kept Anonymous)
+### V (Name kept anonymous)
 - They layout is organized and is easy to navigate.
 - Everything is on the website for a purpose. No unnecessary bells and whistles. Straightforward website.
 - Color choice is pleasing to the eye.
-### Reviewer 5
-  
+### B (Name kept anonymous)
+- Browse pages look too empty
+- Website looks straightforward/ not complicated
+- Big whitespace on bottom of some pages looks bad
 
 ## Thank you for the feedback 
 We will use this to improve on the website and we appreciate the time you have taken to try our website out. From these reviews, it seems like we need to fix some links and better improve some page ui. Another main issue is to make it easier to upload photos. 
