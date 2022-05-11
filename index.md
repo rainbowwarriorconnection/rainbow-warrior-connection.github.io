@@ -131,7 +131,7 @@ Overall the web site does not have instructions or description on the purpose of
 ### Justin
 - Interests in alphabetical order 
 - The website is easy and simple
-- Doesn’t look professional/ interesting
+- Doesn't look professional/ interesting
 - Can include more things to filter by (experience, other things)
 ### V (Name kept Anonymous)
 - They layout is organized and is easy to navigate.
@@ -141,7 +141,7 @@ Overall the web site does not have instructions or description on the purpose of
   
 
 ## Thank you for the feedback 
-We will use this to improve on the website and we appreciate the time you have taken to try our website out.
+We will use this to improve on the website and we appreciate the time you have taken to try our website out. From these reviews, it seems like we need to fix some links and better improve some page ui. Another main issue is to make it easier to upload photos. 
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
