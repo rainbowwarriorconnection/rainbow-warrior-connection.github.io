@@ -135,8 +135,10 @@ Overall the web site does not have instructions or description on the purpose of
 - Can include more things to filter by (experience, other things)
 ### Reviewer 4
 ### Reviewer 5
+  
 
 ## Thank you for the feedback 
+We will use this to improve on the website and we appreciate the time you have taken to try our website out.
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
