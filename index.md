@@ -133,7 +133,10 @@ Overall the web site does not have instructions or description on the purpose of
 - The website is easy and simple
 - Doesn’t look professional/ interesting
 - Can include more things to filter by (experience, other things)
-### Reviewer 4
+### V (Name kept Anonymous)
+- They layout is organized and is easy to navigate.
+- Everything is on the website for a purpose. No unnecessary bells and whistles. Straightforward website.
+- Color choice is pleasing to the eye.
 ### Reviewer 5
   
 
