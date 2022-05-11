@@ -122,13 +122,21 @@ Web links and interfaces are not working smoothly. Browse students interface is 
 
 Overall the web site does not have instructions or description on the purpose of the site. Site could use a FAQ page for instructions or answers. Graphics seem nice and interface layout is decent. The main page logo graphic is a bit too big for the page and should be smaller..  Website still needs a lot of work to be considered usable.  
   
-### Reviewer 2
-### Reviewer 3
+### Clara
+- A lot of emphasis on Kermit, makes it look like a mascot 
+- Picture url is a little troublesome, uploading files of picture can be an improvement 
+- Have a different texture on the side of browse students/ companies
+- Have a filter for browse companies
+
+### Justin
+- Interests in alphabetical order 
+- The website is easy and simple
+- Doesn’t look professional/ interesting
+- Can include more things to filter by (experience, other things)
 ### Reviewer 4
 ### Reviewer 5
 
-
-
+## Thank you for the feedback 
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
