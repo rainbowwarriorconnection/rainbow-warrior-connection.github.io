@@ -54,11 +54,13 @@ After you click on a student's card, it takes you to the Student Profile page. T
 
 When you login, you will be greeted with a form to fill out your company's information and contact information. 
 
-<img src="images/company-home.png" alt="company-profile">
+<img src="images/company-home.png" alt="company-home">
 
 ### Company Profile Page
 
 Clicking on a company's card bring you to their Company Profile page, displaying basic information about the company as well as their job listings.
+
+<img src="images/company-profile.png" alt="company-profile">
 
 ### Create a Job Listing
 
@@ -111,7 +113,17 @@ $ meteor npm run start
 ```
 
 ### Application Design
-Rainbow Warrior Connection is based off of [Bowfolios](github.com/bowfolios) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Watch the videos and documentation for groundwork reference of application design and form processing.
+Rainbow Warrior Connection is based off of [Bowfolios](github.com/bowfolios) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Watch the videos and documentation for groundwork reference of application design and form processing.  
+  
+## Reviews
+```
+Web links and interfaces are not working smoothly. Browse students interface is now working and stuck on the login to your account. Add job tab cannot submit does not input to database. Browse Companies interface looks nice and seems to work well. Company Home fills in submitted works but does not clear after submission.
+
+Overall the web site does not have instructions or description on the purpose of the site. Site could use a FAQ page for instructions or answers. Graphics seem nice and interface layout is decent. The main page logo graphic is a bit too big for the page and should be smaller..  Website still needs a lot of work to be considered usable.
+
+- MB Technologies
+```
+
 ## Important Links
 - [Rainbow Warrior Connection GitHub](https://github.com/rainbowwarriorconnection)
 - [Rainbow Warrior Connection Team Contract](https://docs.google.com/document/d/15uPSs6yrsvvbDGVCjfiiWuhTohnyuAZWgvVWET1-S08/edit?usp=sharing)
